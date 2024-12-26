@@ -34,3 +34,14 @@ urban/
 1. Clone o repositório:
    ```bash
    git clone https://github.com/CalebeRRdev/URBAN.git
+
+2.	Abra o arquivo index.html no navegador.
+
+Próximos Passos 🛤️
+	•	Adicionar autenticação de usuários.
+	•	Implementar notificações em tempo real.
+	•	Criar integração com um banco de dados para gerenciar informações dinâmicas.
+
+Autores ✍️
+
+• CalebeRRdev
