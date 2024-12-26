@@ -1,2 +1,15 @@
 // Mensagem de boas-vindas no console
 console.log("Bem-vindo ao URBAN!");
+
+// Aguarda o carregamento da página
+window.onload = () => {
+    const splashScreen = document.getElementById('splash-screen');
+    const mainContent = document.getElementById('main-content');
+  
+    // Simula um tempo para a splash screen (3 segundos)
+    setTimeout(() => {
+      // Oculta a splash screen e exibe o conteúdo principal
+      splashScreen.classList.add('hidden');
+      mainContent.classList.remove('hidden');
+    }, 3000); // 3000ms = 3 segundos
+  };
