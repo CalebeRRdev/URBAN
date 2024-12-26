@@ -16,12 +16,12 @@ Resolver a falta de informações sobre o transporte público da cidade, oferece
 
 ## Estrutura do Projeto 📁
 urban/
-├── index.html # Página principal com o mapa
-├── style.css  # Estilos do site
-├── script.js  # Scripts de interação do mapa
-├── assets/    # Imagens, ícones, etc.
-├── data/      # Simulação de dados (JSON)
-└── README.md  # Documentação
+• ├── index.html # Página principal com o mapa
+• ├── style.css  # Estilos do site
+• ├── script.js  # Scripts de interação do mapa
+• ├── assets/    # Imagens, ícones, etc.
+• ├── data/      # Simulação de dados (JSON)
+• └── README.md  # Documentação
 
 ## Funcionalidades 🚀
 - Exibição de um mapa interativo com a localização do usuário.
