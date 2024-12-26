@@ -15,7 +15,6 @@ Resolver a falta de informações sobre o transporte público da cidade, oferece
 - **Banco de Dados (futuro)**: SQLite ou Firebase (em planejamento)
 
 ## Estrutura do Projeto 📁
-urban/
 
 urban/
 ├── assets/              # Arquivos estáticos, como imagens, ícones, etc.
