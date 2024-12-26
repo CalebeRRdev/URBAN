@@ -16,6 +16,7 @@ Resolver a falta de informações sobre o transporte público da cidade, oferece
 
 ## Estrutura do Projeto 📁
 
+```
 urban/
 ├── assets/              # Arquivos estáticos, como imagens, ícones, etc.
 ├── css/                 # Arquivos de estilo (CSS)
@@ -28,6 +29,7 @@ urban/
 ├── login.html           # Página de login/cadastro (futuro)
 ├── notifications.html   # Página de notificações/avisos (futuro)
 └── README.md            # Documentação do projeto
+```
 
 ## Funcionalidades 🚀
 - Exibição de um mapa interativo com a localização do usuário.
